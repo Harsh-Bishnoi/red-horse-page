@@ -1,0 +1,88 @@
+:root {
+    /***** font size *****/
+    --font-size-16: 16px;
+    --font-size-64: 64px;
+    --font-size-14: 14px;
+    --font-size-48: 48px;
+    --font-size-40: 40px;
+    --font-size-28: 28px;
+    --font-size-36: 36px;
+    --font-size-20: 20px;
+
+    /***** font family *****/
+    --font-family-plus-jakarta-sans: "Plus Jakarta Sans", sans-serif;
+
+    /***** line height *****/
+    --lh-20: 20px;
+    --lh-76: 76px;
+    --lh-18: 18px;
+    --lh-57: 57px;
+    --lh-33: 33px;
+    --lh-43: 43px;
+    --lh-24: 24px;
+    --lh-21: 21px;
+}
+
+.font-size-16 {
+    font-size: var(--font-size-16);
+}
+
+.font-size-64 {
+    font-size: var(--font-size-64);
+}
+
+.font-size-14 {
+    font-size: var(--font-size-14);
+}
+
+.font-size-48 {
+    font-size: var(--font-size-48);
+}
+
+.font-size-28 {
+    font-size: var(--font-size-28);
+}
+
+.font-size-36 {
+    font-size: var(--font-size-36);
+}
+
+.font-size-20 {
+    font-size: var(--font-size-20);
+}
+
+.font-plus-jakarta-sans {
+    font-family: var(--font-family-plus-jakarta-sans);
+}
+
+.lh-20 {
+    line-height: var(--lh-20);
+}
+
+.lh-76 {
+    line-height: var(--lh-76);
+}
+
+.lh-18 {
+    line-height: var(--lh-18);
+}
+
+.lh-57 {
+    line-height: var(--lh-57);
+}
+
+.lh-33 {
+    line-height: var(--lh-33);
+}
+
+.lh-43 {
+    line-height: var(--lh-43);
+}
+
+.lh-24 {
+    line-height: var(--lh-24);
+}
+
+.lh-21 {
+    line-height: var(--lh-21);
+}

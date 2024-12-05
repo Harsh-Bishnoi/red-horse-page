@@ -1,0 +1,166 @@
+@import url(../css/root.css);
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap');
+
+.bg-img {
+    background-image: url(../images/header-img.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.head {
+    max-width: 588px;
+    width: 100%;
+}
+
+
+/***** section 1 *****/
+.line {
+    border: 1px solid;
+    color: black;
+    width: 87px;
+}
+
+.para {
+    max-width: 536px;
+    width: 100%;
+}
+
+.opacity-70 {
+    opacity: 70%;
+}
+
+.btn-see-more {
+    width: 206px;
+    height: 60px;
+    margin-left: 13px;
+}
+
+.mt-24 {
+    margin-top: 24px;
+}
+
+.ml-5 {
+    margin-left: -5px;
+}
+
+.video-logo-svg {
+    bottom: 2%;
+    right: 6%;
+    cursor: pointer;
+}
+
+/***** section 2 *****/
+
+.btn-see {
+    max-width: 206px;
+    height: 60px;
+    border: 1px solid;
+    background-color: white;
+}
+
+.frame {
+    bottom: 6%;
+    left: 5%;
+}
+
+/***** section 3 *****/
+
+.bg-img-2 {
+    background-image: url(../images/section-3-img.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.pl-60 {
+    padding-left: 60px;
+}
+
+.pr-108 {
+    padding-right: 108px;
+}
+
+.pr-60 {
+    padding-right: 60px;
+}
+
+.opacity-80 {
+    opacity: 80%;
+}
+
+/***** section 4 *****/
+
+.box {
+    max-width: 267px;
+    width: 100%;
+    height: 267px;
+    border: 1px solid #0000004D;
+}
+
+.brain-svg {
+    right: 7%;
+    top: 7%;
+}
+
+.mt-150 {
+    margin-top: 150px;
+}
+
+.pl-18 {
+    padding-left: 18px;
+}
+
+.max-width-223 {
+    max-width: 223px;
+}
+
+.max-width-163 {
+    max-width: 163px;
+}
+
+/***** section 5 *****/
+.mt-30 {
+    margin-top: 30px;
+}
+
+.input {
+    height: 58px;
+    width: 100%;
+    padding-left: 18px;
+}
+
+.input-2 {
+    height: 58px;
+    width: 100%;
+    padding-left: 18px;
+}
+
+.textarea {
+    width: 100%;
+    height: 162px;
+    margin-top: 30px;
+    padding-left: 18px;
+}
+
+.submit-btn {
+    max-width: 206px;
+    width: 100%;
+    height: 60px;
+    margin-top: 48px;
+}
+
+/***** footer *****/
+.max-width-253 {
+    max-width: 253px;
+}
+
+@media (max-width:576px) {
+    .head {
+        font-size: var(--font-size-40);
+    }
+
+    .input-2 {
+        margin-top: 15px;
+    }
+}
