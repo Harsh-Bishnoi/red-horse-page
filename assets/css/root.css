@@ -21,6 +21,7 @@
     --lh-43: 43px;
     --lh-24: 24px;
     --lh-21: 21px;
+    --lh-17: 17px;
 }
 
 .font-size-16 {
@@ -85,4 +86,7 @@
 
 .lh-21 {
     line-height: var(--lh-21);
+}
+.lh-17 {
+    line-height: var(--lh-17);
 }
