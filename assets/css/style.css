@@ -13,6 +13,13 @@
     width: 100%;
 }
 
+.header-img {
+    left: 40%;
+    /* top: 100%;
+    left: 50%;
+    transform: translate(-50%, -50%); */
+}
+
 /***** section 1 *****/
 .line {
     border: 1px solid;
@@ -163,6 +170,7 @@
     height: 162px;
     margin-top: 30px;
     padding-left: 18px;
+    padding-top: 18px;
 }
 
 .submit-btn {
@@ -202,6 +210,10 @@
     .input-2 {
         margin-top: 15px;
     }
+
+    .services{
+        font-size:var(--font-size-36);
+    }
 }
 
 @media (max-width:768px) {
@@ -217,5 +229,9 @@
 @media (max-width:992px) {
     .section-1-img {
         margin-top: 15px;
+    }
+
+    .both {
+        margin-top: 40px;
     }
 }
