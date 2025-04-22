@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap');
 
 .bg-img {
-    background-image: url(../images/header-img.png);
+    background-image: url(../images/header-bg-img.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -100,7 +100,7 @@
 /***** section 3 *****/
 
 .bg-img-2 {
-    background-image: url(../images/section-3-img.png);
+    background-image: url(../images/building-img.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
